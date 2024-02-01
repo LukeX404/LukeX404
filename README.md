@@ -1,5 +1,6 @@
 <div align="center">
-<img src="./imgs/luketheneko.png" alt="" height="65" >
+<img src="./imgs/luketheneko.png" alt="" height="45" >
+<br>
 <br>
 </div>
 <div align="center">
