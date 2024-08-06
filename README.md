@@ -1,24 +1,25 @@
-<br>
 <div align="center">
-    <img src="./docs/imgs/luketheneko.png" alt="" height="60">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+</div>
+
+<div align="center">
+    <img src="./docs/imgs/luketheneko.png" alt="" height="55">
 </div>
 <br>
 
 <h1> 💫 About Me </h1>
-👋 Hey there! I'm Lucas<br>
-📌 From: Brazil - São Paulo
+👋 <strong>Name:</strong> Lucas<br>
+📌 <strong>From:</strong> Brazil - São Paulo<br>
+🌐 <strong>Languages:</strong> Portuguese (Native) | English (Intermediate)<br>
 
 <br>
-
 <h1> 💻 Tech Stack:</h1>
 
-<p>
 <div align="center">
     <a href="https://skillicons.dev">
         <img
             src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,nextjs,nestjs,react,discordjs,firebase,mongodb,)" />
     </a>
-    </p>
 </div>
 
 <h1> 🌐 Socials:</h1>
@@ -40,6 +41,13 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LukeTheNeko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"
-        height="150" alt="stats graph" />
+        height="150" alt="stats graph" 
+        />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeTheNeko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
-        height="150" alt="languages graph" />
+        height="150" alt="languages graph" 
+        />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+</div>
