@@ -1,11 +1,4 @@
 <div align="center">
-        <img 
-        width="100%"
-        src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header" 
-        />
-</div>
-
-<div align="center">
         <img src="./docs/imgs/luketheneko.png" alt="logo" height="55">
 </div>
 <br>
