@@ -4,7 +4,6 @@
          src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header" 
          />
  </div>
-<br>
 
 <h1> 💫 About Me </h1>
 👋 <strong>Name:</strong> Lucas<br>
@@ -17,7 +16,7 @@
 <div align="center">
         <a href="https://skillicons.dev">
                 <img
-                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,nextjs,nestjs,react,firebase,mongodb,)" 
+                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,discordjs,nextjs,nestjs,react,firebase,mongodb,)" 
                 >
         </a>
 </div>
