@@ -16,7 +16,7 @@
 <div align="center">
         <a href="https://skillicons.dev">
                 <img
-                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,vue,discordjs,nextjs,nestjs,react,firebase,mongodb,)" 
+                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,discordjs,nextjs,nestjs,nextjs,vue,react,firebase,mongodb,)" 
                 >
         </a>
 </div>
