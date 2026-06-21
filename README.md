@@ -6,9 +6,9 @@
  </div>
 
 <h1> 💫 About Me </h1>
-👋 <strong>Name:</strong> Lucas<br>
+👋 <strong>Name:</strong> Lucas / LukeX404<br>
 📌 <strong>From:</strong> Brazil - São Paulo<br>
-🌐 <strong>Languages:</strong> Portuguese (Native) | English (Intermediate)<br>
+🌐 <strong>Languages:</strong> Portuguese (Native) | English (Intermediate) | Spanish (Intermediate)<br>
 
 <br>
 <h1> 💻 Tech Stack:</h1>
@@ -16,7 +16,7 @@
 <div align="center">
         <a href="https://skillicons.dev">
                 <img
-                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,discordjs,nextjs,nestjs,nuxtjs,vue,react,firebase,mongodb,)" 
+                src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,nodejs,discordjs,nextjs,nestjs,nuxtjs,vue,react,firebase,mongodb,lua,)" 
                 >
         </a>
 </div>
