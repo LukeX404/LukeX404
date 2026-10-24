@@ -39,7 +39,7 @@
 
 <br>
 
-<!-- <h1>📊 GitHub Stats</h1>
+ <h1>📊 GitHub Stats</h1>
 
 <div align="center">
     <img
@@ -56,7 +56,7 @@
 
 <br>
 
-<div align="center"> -->
+<div align="center">
 
 💜 <strong>Building, learning and improving one project at a time.</strong>
 
