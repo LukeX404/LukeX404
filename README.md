@@ -58,7 +58,7 @@
 
 <div align="center">
 
-💜 <strong>Building, learning and improving one project at a time.</strong>
+💜 <strong>Building, learning, and improving—multiple projects at a time..</strong>
 
 </div>
 
