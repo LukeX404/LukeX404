@@ -1,10 +1,4 @@
 <div align="center">
-  <!-- Header Banner com Gradiente Roxo Neon -->
-    <img
-        width="100%"
-        src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
-    />
-
   <a href="https://github.com/LukeX404">
     <img
       src="https://images.weserv.nl/?url=github.com/LukeX404.png&w=260&h=260&fit=cover&mask=circle"
@@ -94,10 +88,10 @@ status: Open to collaborations & exciting projects 🚀
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LukeX404&show_icons=true&include_all_commits=true&count_private=true&bg_color=0f051d&title_color=c77dff&text_color=e0aaff&icon_color=a020f0&border_color=5a189a&border_radius=10" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeX404&include_all_commits=true&count_private=true&layout=compact&bg_color=0f051d&title_color=c77dff&text_color=e0aaff&border_color=5a189a&border_radius=10" height="160" alt="Top Languages" />
-</div>
+</div> -->
 
 <br>
 
@@ -107,12 +101,5 @@ status: Open to collaborations & exciting projects 🚀
 
 <br>
 
----
 
-<div align="center">
-
-  <img
-        width="100%"
-        src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"
-    />
 </div>
