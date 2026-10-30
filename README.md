@@ -110,7 +110,6 @@ status: Open to collaborations & exciting projects 🚀
 ---
 
 <div align="center">
-  <p><i>"Building, learning, and improving — one project at a time."</i> 💜</p>
 
   <img
         width="100%"
